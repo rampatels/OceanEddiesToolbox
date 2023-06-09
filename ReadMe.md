@@ -1,4 +1,4 @@
-# Custom Scripts to extend functionality of OceanEddies software
+# Complementary toolbox for OceanEddies software (Faghmous et al. 2015)
 *This ReadMe.md belongs to **OceanEddiesToolbox** directory*
 
 ## Author
@@ -9,7 +9,7 @@ Ramkrushnbhai S. Patel $^{1,2}$
 2: [Australian Research Council Centre of Excellence for Climate Extremes](https://climateextremes.org.au), University of Tasmania, Hobart, Tasmania, Australia
 
 ## ABOUT
-The *custom_scripts* directory provides the scripts that automatise the detection and tracking of eddies using Faghmous et al. 2015 software.  
+The *OceanEddiesToolbox* repository provides the scripts and functions that complements [Faghmous et al. 2015 eddy tracking software](https://github.com/rampatels/OceanEddies). All the scripts and functions were written during my [PhD Thesis](https://doi.org/10.25959/100.00038437) work. The interested readers can find a tutorial in the thesis Appendix E.
 ## CONTENTS
 Directory | Description
 --------- | ----------
