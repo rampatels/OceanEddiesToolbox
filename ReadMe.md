@@ -13,7 +13,9 @@ The *OceanEddiesToolbox* repository provides complementry scripts and functions 
 
 This toolbox will be beneficial for researcher seeking to promplty generate an eddy census for a specific study region. I have commented as much as I can to guide the students.
 
-You can cite this toolbox: 10.5281/zenodo.8025841
+**Cite:**
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8025841.svg)](https://doi.org/10.5281/zenodo.8025841)
 
 ## CONTENTS
 Directory | Description
@@ -24,7 +26,7 @@ analyses | postprocessing and analysing functions
 lib | commonly used functions 
 txt file | global coastline data
 ReadMe | -
-
+Patel, Ramkrushnbhai (2021).  Thesis. 
 ### Example scripts
 *AutomateEntireSoft.m* : demonstrates how to automate the software from altimetry data\
 *idealizedmodelautomate.m* : demonstrates how to automate the software from idealised model output data\
